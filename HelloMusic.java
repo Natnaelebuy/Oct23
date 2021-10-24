@@ -55,5 +55,10 @@ public class HelloMusic extends JFrame {
 
     public static void main(String args[]) {
         HelloMusic.setup();
+
+
+
+
+
     }
 }
